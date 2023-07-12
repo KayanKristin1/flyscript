@@ -7,8 +7,4 @@ Roblox Lua script exploit, apenas funciona com executores que suportam Lua.
 
 [Navegue no roblox e procure um jogo](https://roblox.com)
 
-<p align="center">
-  -  Learning: Lua, Python, CSS & HTML </strong>
-</p>
-
 
